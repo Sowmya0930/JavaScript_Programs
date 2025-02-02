@@ -1,0 +1,31 @@
+Way of declaring Functions:
+1. using simple function key word
+    ex: fucntion functionName(){
+        block of code
+    }  --->Call using functionName()
+2. Using function expression
+    ex: let functionName=function(){
+        block of code
+    } --->Call using variablename()
+3. Using constructor
+    ex: let functionName=new Function(){
+        block of code
+    } call using constructorName
+4. Arrow function
+    ex: let functionName =()=>{
+        block of code
+    }
+
+    self invoking function()
+    wrap the function inside ()and add ()
+=======================================
+Arguments ->values specified while calling a function
+paramets->Values mentioned while declaring a function
+
+===================================
+arguments.lenth -> number of arguments passed
+toString() ->Converts the value in to String
+
+====================================
+A function defined as the property of an object, is called a method to the object.
+A function designed to create new objects, is called an object constructor.
