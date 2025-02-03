@@ -1,3 +1,4 @@
+//check git fetch and merge
 // ---map() -->accepts the call back function where operation will be performed on each
 //array element and returns the array
 
